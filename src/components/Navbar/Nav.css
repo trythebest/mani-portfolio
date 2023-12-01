@@ -1,0 +1,23 @@
+.nav-container{
+    background-color: black;
+   
+}
+h2,span{
+    color: #94A3B8;
+}
+
+span:hover{
+    cursor: pointer;
+    color: #34BDF8;
+}
+h2:hover{
+    cursor: pointer;
+    color: #34BDF8;
+}
+.link{
+    display: flex;
+    align-items: center;
+    align-content:space-between;
+    gap: 15px;
+}
+

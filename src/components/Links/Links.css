@@ -1,0 +1,32 @@
+.social{
+    position: fixed;
+    top: 40%;
+
+}
+
+
+li{
+
+    width: 150px;
+    height: 60px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color:#6B7280;
+    margin-left: -120px;
+    transition-duration: 0.5s;
+    padding: 15px;
+    font-size: 40px;
+}
+.scl{
+   
+    text-decoration: none;
+    color: rgb(227, 231, 231);
+    font-size: 20px;
+}
+
+
+li:hover{
+    margin-left:-45px;
+    border-radius: 10px;
+}

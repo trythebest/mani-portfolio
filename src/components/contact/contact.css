@@ -1,0 +1,64 @@
+.contact{
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+  
+}
+.f-card{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+    padding-bottom: 20px;
+}
+
+
+input{
+    background:none;
+    border:2px solid white;
+    border-radius: 5px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+    /* width: 70%; */
+    /* height: 40px; */
+}
+input,textarea:focus{
+outline: none;
+}
+textarea{
+    background: none;
+    border: 2px solid white;
+    color: #FFFFFF;
+    /* width: 70%; */
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+input:nth-last-child(2){
+   
+    width: 100px;
+    background-color: #3389F1;
+    border: none;
+}
+
+
+input:nth-last-child(2):hover{
+    
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+@media(min-width:1024px) {
+    .body{
+        margin-left: 130px;
+        margin-right: 130px;
+    }
+    h1{
+        font-size: 80px;
+    }
+   
+}

@@ -1,0 +1,37 @@
+/* .home{
+    margin: 140px;
+} */
+h1{
+    /* font-size: 80px; */
+    color: whitesmoke;
+    /* margin-bottom: 5px; */
+}
+.para{
+    color:gray ;
+    font-size: 15px;
+}
+.Project{
+    display: flex;
+    flex-direction: row;
+    /* padding: 5px; */
+    gap: 15px;
+    width: fit-content;
+}
+ .button{
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    background-color: #3786F4;
+    color: whitesmoke;
+    padding: 10px;
+    font-size: 15px;
+    text-decoration: none;
+
+} 
+.button:hover{
+    scale: 1.1;
+}
+.icon:hover{
+    transform: rotateZ(90deg);
+
+}
