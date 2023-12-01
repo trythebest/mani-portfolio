@@ -3,7 +3,6 @@ import emailjs from '@emailjs/browser';
 import { ToastContainer, toast } from "react-toastify";
 import 'react-toastify/dist/ReactToastify.css';
 import "./contact.css";
-import { Height } from "@mui/icons-material";
 
 
 

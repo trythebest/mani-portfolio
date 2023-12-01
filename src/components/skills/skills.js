@@ -9,7 +9,6 @@ import EXPRESS from "../pics/EXPRESS.png";
 import MONGODB from "../pics/MONGODB.png";
 import GITHUB from "../pics/GITHUB.png";
 import { Col, Container, Row } from "react-bootstrap";
-import { GitHub } from "@mui/icons-material";
 
 export default function Skills() {
     let skills = [
