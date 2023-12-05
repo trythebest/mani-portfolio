@@ -57,8 +57,8 @@ export default function Projects() {
                                             
                                         />
                                         <div className="pro-details">
-                                            <a href={link} className="a">Link</a>
-                                            <a href={source} className="a">Source Code</a>
+                                            <a href={link}  target="_blank" className="a">Link</a>
+                                            <a href={source} target="_blank" className="a">Source Code</a>
                                         </div>
                                         <div className="buttons">
                                             <button>{name}</button>
