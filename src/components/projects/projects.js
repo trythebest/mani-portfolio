@@ -1,6 +1,7 @@
 import React, { useRef } from "react";
 import weather from "../pics/weather.png";
 import expense from "../pics/expense.png";
+import Recipe from "../pics/RECIPE.png";
 import "./projects.css";
 import { Col, Container, Image, Row } from "react-bootstrap";
 
@@ -23,14 +24,14 @@ export default function Projects() {
             name: "expense-app"
 
         },
-        // {
-        //     id: "3",
-        //     image: expense,
-        //     link: "https://hmexpense-tracker.netlify.app",
-        //     source: "https://github.com/trythebest/expense_tracker-frontend",
-        //     name: "expense-app"
+        {
+            id: "3",
+            image: Recipe,
+            link: "https://foodiz-recipe.netlify.app",
+            source: "https://github.com/trythebest/foodiz-app",
+            name: "Recipe-app"
 
-        // }
+        }
 
     ]
    

@@ -16,11 +16,11 @@ export default function Home(){
         // <>
         // <Container className=" home" id="Home">
          <div className="p-2 mt-5 body" id="Home">
-            <h1 class="display-4" className="mt-5 pb-2">I'm a Full Stack Developer</h1>
+            <h1 class="display-4" className="mt-5 pb-2">I'm a Front-end Developer</h1>
             <p className="para">
-                I have completed my MERN stack development course and having hands-on experience in web appilication from creating full stack projects and attend hackathons.
+                I have completed my MERN stack development course and having hands-on experience in web appilication from creating front-end projects and attend hackathons.
                 <br/>
-               Currently, I looking for a job from which i get trained technologies like React Js, Material ui, Node JS and MongoDB.
+               Currently, I looking for a job from which i get trained technologies like Javascript, React Js, Material ui, Bootstrap, Html and Css.
             </p>
             <div className="Project">
                     <Link to="Projects" offset={-100} className="button">Projects<KeyboardArrowRightIcon className="icon"/></Link>
