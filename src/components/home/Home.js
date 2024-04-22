@@ -24,7 +24,7 @@ export default function Home(){
             </p>
             <div className="Project">
                     <Link to="Projects" offset={-100} className="button">Projects<KeyboardArrowRightIcon className="icon"/></Link>
-                    <a href= "https://drive.google.com/file/d/17luKTlc5v9XQPlkF3wN1_OCg6lAEVkSq/view?usp=sharing" target="_blank" rel="noreferrer" className="button">Resume<LaunchIcon/></a>               
+                    <a href= "https://drive.google.com/file/d/1PykUConhG0LSyuXnDzycQN85Tr-MtpBg/view?usp=sharing" target="_blank" rel="noreferrer" className="button">Resume<LaunchIcon/></a>               
             </div>
             
             </div>          

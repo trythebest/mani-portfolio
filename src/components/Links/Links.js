@@ -28,7 +28,7 @@ export default function Float() {
         {
             Name: "Resume",
             Icon: <ContactPageIcon fontSize="100px" />,
-            href: "https://drive.google.com/file/d/17luKTlc5v9XQPlkF3wN1_OCg6lAEVkSq/view?usp=sharing",
+            href: "https://drive.google.com/file/d/1PykUConhG0LSyuXnDzycQN85Tr-MtpBg/view?usp=sharing",
             borders: "rounded-bottom"
         }
     ]
